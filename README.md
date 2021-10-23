@@ -1,0 +1,2 @@
+This project is designed to utilize all of the skills that I have developed to this point using the
+HTML language. My goal is to build a a basic recipe website with links and images. I will check in at the end of the project to see how it went and what I was able to accomplish.
